@@ -1,0 +1,108 @@
+body{
+    background-image: url("bgi-3.avif");
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 800px;
+    margin-top: 0px;
+}
+.navbar.nav-cust{
+    background-color: #6E6E6E;
+    color: black;
+}
+.nav-link{
+    margin: 5px;
+}
+.nav-cust .navbar-nav .nav-link:hover{
+    background-color:#BAFF39;
+    color: #E86A33;
+}
+a.navbar-brand{
+    color: white;
+}
+.nav-cust .navbar-nav .nav-link{
+    color: black;
+    font-weight: 500;
+}
+.heading-on-contact{
+    text-align: center;
+}
+.fnames{
+    position: absolute;
+    right: 600px;
+    font-family:  'Oleo Script', cursive;
+    color:yellowgreen;
+    top: 220px;
+    font-size: 25px;
+}
+.lnames{
+    position: absolute;
+    right: 100px;  
+    font-family:  'Oleo Script', cursive;
+    color: yellowgreen; 
+    top: 220px;
+    font-size: 25px;
+}
+.email-databox{
+    position: absolute;
+    right: 600px;
+    font-family:  'Oleo Script', cursive;
+    color: yellowgreen;
+    top: 390px;
+    font-size: 25px;
+}
+.enquires-phone{
+    position: absolute;
+    right: 80px;
+    font-family:  'Oleo Script', cursive;
+    color: yellowgreen;
+    top: 390px;
+    font-size: 25px;
+}
+.submit-button{
+    position: absolute;
+    top: 460px;
+    right: 500px;
+    background-color: skyblue;
+
+}
+.contact-heading{
+    font-family:  'Oleo Script', cursive;
+    color: hotpink;
+    
+}
+section{
+    padding-top: 70px;
+}
+.social-media-div{
+    position: absolute;
+    top: 620px;
+    right: 500px;
+}
+.fa-brands{
+    padding: 10px;
+}
+.social-media-heading{
+    color: #E90064;
+}
+a.fa-brands{
+    color: #ffff;
+}
+a.fa-brands:hover{
+    text-decoration: none;
+}
+a.insta-brands:hover{
+    color: hotpink;
+}
+a.linked-brands:hover{
+    color: skyblue;
+}
+a.git-brands:hover{
+    color: black;
+}
+a.tele-brands:hover{
+    color: #537FE7;
+}
+a.portfolio-text:hover{
+    color: #16FF00;
+    font-weight: 900;
+}
