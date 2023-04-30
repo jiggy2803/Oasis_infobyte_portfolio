@@ -1,0 +1,100 @@
+body{
+    background-image: url("bgi-7.avif");
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 1500px;
+    margin-top: 0px;
+}
+.navbar.nav-cust{
+    background-color: #6E6E6E;
+    color: black;
+}
+.nav-link{
+    margin: 5px;
+}
+.nav-cust .navbar-nav .nav-link:hover{
+    background-color:#BAFF39;
+    color: #E86A33;
+}
+a.navbar-brand{
+    color: white;
+}
+.nav-cust .navbar-nav .nav-link{
+    color: black;
+    font-weight: 500;
+}
+.frontend-image{
+    height: 350px;
+    width: 370px;
+    padding: 20px;
+    float: left;
+    position: absolute;
+    left: 250px;
+    top: 70px;
+    transition: transform 0.5s;
+}
+.frontend-image:hover{
+    transform: translateY(-5px);
+    box-shadow:10px  5px hotpink;
+}
+.frontend-text{
+    color: #ffff;
+    font-family: 'Oleo Script', cursive;
+    padding-top: 100px;
+    font-size: 20px;
+    color: #E86A33;
+}
+.webdesign-image{
+    height: 350px;
+    width: 370px;
+    padding: 30px;
+    float: right;
+    position: absolute;
+    right: 250px;
+    top: 10px;
+    transition: transform 0.5s;
+}
+.webdesign-image:hover{
+    transform: translateY(-5px);
+    box-shadow:10px  5px  hotpink;
+}
+.webdesign-text{
+    color: #ffff;
+    font-family: 'Oleo Script', cursive;
+    padding-top: 50px; 
+    margin-left: 260px;
+    font-size: 20px;
+    color: #BAFF39;
+}
+.heading{
+    text-align: center;
+    color: #ffff;
+    font-family: 'Oleo Script', cursive;
+    padding-top: 20px;
+}
+.python-image{
+    height: 350px;
+    width: 370px;
+    padding: 20px;
+    float: left;
+    position: absolute;
+    left: 250px;
+    top: 90px;
+    transition: transform 0.5s;
+}
+.python-image:hover{
+    transform: translateY(-5px);
+    box-shadow:10px  5px  hotpink;
+}
+.python-text{
+    color: #ffff;
+    font-family: 'Oleo Script', cursive;
+    padding-top: 150px; 
+    margin-left: 10px;
+    font-size: 20px;
+    color: #ff00a6;
+}
+a.portfolio-text:hover{
+    color: #16FF00;
+    font-weight: 900;
+}
