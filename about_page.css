@@ -1,0 +1,80 @@
+body{
+    background-image: url("bgi-4.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 900px;
+    margin-top: 0px;    
+}
+.navbar.nav-cust{
+    background-color: #6E6E6E;
+    color: black;
+}
+.nav-link{
+    margin: 5px;
+}
+.nav-cust .navbar-nav .nav-link:hover{
+    background-color:#BAFF39;
+    color: #E86A33;
+}
+a.about-me-text{
+    color: black;
+}
+a.about-me-text:hover{
+    text-decoration: none;
+    color: #ffff;
+}
+a.navbar-brand{
+    color: white;
+}
+.nav-cust .navbar-nav .nav-link{
+    color: black;
+    font-weight: 500;
+}
+p{
+    font-family: 'Oleo Script', cursive;
+    color: #ffff;
+    width: 39%;
+    padding: 10px;
+    padding-left: 30px;
+    font-size: 25px;
+}
+.about-me-heading{
+    color: #66fcf1;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+.name{
+    color: #F9D949;
+    padding: 5px
+}
+.gamer{
+    color: #FF0303;
+}
+.explorer{
+    color: #E86A33;
+}
+.foddie{
+    color: #dd1196;
+}
+.designer{
+    color: #537FE7;
+}
+.college{
+    color: yellowgreen;
+}
+.design{
+    color: hotpink;
+}
+.strategy{
+    color: hotpink;
+}
+.inspired{
+    color: hotpink;
+}
+.surrounded{
+    color: hotpink;
+}
+a.portfolio-text:hover{
+    color: #16FF00;
+    font-weight: 900;
+}
