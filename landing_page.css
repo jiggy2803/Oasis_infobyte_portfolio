@@ -1,0 +1,48 @@
+body{
+    background-image: url("bgi-11.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 500px;
+    margin-top: 0px;
+}
+.landing-page-text-div{
+    position: absolute;
+    top: 200px;
+    left: 300px;
+}
+.hey{
+    font-family: 'Oleo Script', cursive;
+    color: #dd1196;
+    font-size: 50px;
+    padding: 10px;
+}
+.welcome-to{
+    font-family: 'Oleo Script', cursive;
+    color: #e6c019;
+    font-size: 50px;
+    padding: 10px;
+}
+.portfolio-website{
+    font-family: 'Oleo Script', cursive;
+    color: #66fcf1;
+    font-size: 50px;
+    padding: 10px;
+}
+.explore-button{
+    background-color: #16FF00;
+    padding: 10px;
+    
+}
+a.explore-text{
+    color: #ffff;
+}
+a.explore-text:hover{
+    text-decoration:wavy;
+    color:#FF0303 ;
+    font-size: 20px;
+    font-weight: 900;
+}
+a.portfolio-text:hover{
+    color: #16FF00;
+    font-weight: 900;
+}
